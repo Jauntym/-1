@@ -1,0 +1,13 @@
+{
+  "code": 100,
+  "vcode": 200,
+  "version": "4.1.8",
+  "ids": [
+    250528,
+    778750
+  ],
+  "changelog": "",
+  "updateURL": ".",
+  "scode": "80149",
+  "ua": "LogStatistic"
+}
